@@ -41,7 +41,7 @@
 - [ ] L’application peut générer des statistiques de sécurité (par ex. nombre d’incidents signalés par semaine).
 
 # Prototype Figma
-https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
+https://www.figma.com/design/Xj0b3jkTcBH7IwTK88wJct/Untitled?node-id=0-1&t=4NyjNovdEQ4lKsme-1
 
 <img src="iPhone 16 Pro - 1.png" width=200>  <img src="iPhone 16 Pro - 2.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
 <img src="menu sombre.png" width=200> 
